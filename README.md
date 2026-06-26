@@ -3,4 +3,14 @@ This project analyzes sales data to understand selling patterns and revenue tren
 
 ## Dataset
 
---Dataset used in this project can be found (https://www.kaggle.com/datasets/beekiran/sales-data-analysis?resource=download)
+- Dataset used in this project can be found (https://www.kaggle.com/datasets/beekiran/sales-data-analysis?resource=download)
+- It contains **185,950 entries** across **11 columns**.
+- Key Information includes order date, product name, price, quantity ordered and sales.
+
+##Tools used
+
+- Python
+- Pandas
+- Matplotlib
+- Seaborn
+- Jupyter Notebook
