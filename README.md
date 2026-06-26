@@ -19,7 +19,7 @@ This project analyzes sales data to understand selling patterns and revenue tren
 1. Firstly, I loaded and cleaned the data.
 2. Converted the order date column to a proper datetime format for time-based analysis.
 3. Created subsets of the data using selected columns for specific analyses.
-4. 4. Analyzed monthly sales by categorizing products into high, medium, and low revenue ranges to understand which products drive the most revenue.
+4. Analyzed monthly sales by categorizing products into high, medium, and low revenue ranges to understand which products  drive the most revenue.
 5. Created multiple visualizations (line, bar, pie, and scatter plots) to compare monthly sales trends across these revenue categories, as well as city-wise and product-wise performance.
 
 ## Key Insights
