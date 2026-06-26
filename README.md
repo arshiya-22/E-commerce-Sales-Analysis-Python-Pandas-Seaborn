@@ -14,3 +14,8 @@ This project analyzes sales data to understand selling patterns and revenue tren
 - Matplotlib
 - Seaborn
 - Jupyter Notebook
+
+## What I did
+1. Firstly, I loaded and cleaned the data.
+2. Converted the order date column to a proper datetime format for time-based analysis.
+3. Created subsets of the data using selected columns for specific analyses (e.g., medium-range products).
