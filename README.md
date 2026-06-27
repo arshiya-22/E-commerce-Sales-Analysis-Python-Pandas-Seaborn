@@ -7,7 +7,7 @@ This project analyzes sales data to understand selling patterns and revenue tren
 - It contains **185,950 entries** across **11 columns**.
 - Key Information includes order date, product name, price, quantity ordered and sales.
 
-##Tools used
+## Tools used
 
 - Python
 - Pandas
