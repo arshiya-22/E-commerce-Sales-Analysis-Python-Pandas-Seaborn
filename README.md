@@ -32,26 +32,29 @@ This project analyzes sales data to understand selling patterns and revenue tren
 ## Visualizations
 
 ### Monthly Sales Trend
-<img width="640" height="480" alt="monthly_sales_trend" src="https://github.com/user-attachments/assets/b8bc9226-9ff9-42d5-b95e-d7792d03dbf6" />
+<img width="2967" height="1468" alt="monthly_sales_trend_v2" src="https://github.com/user-attachments/assets/ec61b1ba-8234-4875-9270-198ca6aee325" />
+
 
 Sales peak in December and are lowest in January, showing a clear seasonal pattern.
 
 ### Sales by City
-<img width="640" height="480" alt="sales_by_city" src="https://github.com/user-attachments/assets/1c06500e-553c-4ed9-83e2-5af41df2d834" />
+<img width="2497" height="1603" alt="monthly_sales_barplot_v2" src="https://github.com/user-attachments/assets/d9dca438-f6a1-49ed-8f21-2e87eb7ee042" />
+
 
 San Francisco and Los Angeles generate the highest revenue among all cities.
 
 ### City Sales Distribution
-<img width="640" height="480" alt="city_sales_pie" src="https://github.com/user-attachments/assets/27ebc5dc-cb75-4d19-9478-c8d2db99ebc1" />
+<img width="1899" height="1740" alt="monthly_sales_piechart_v2" src="https://github.com/user-attachments/assets/14235e17-ae0a-4921-b533-9604f1e35719" />
 
 A proportional view of how total sales are distributed across cities.
 
 ### High vs Medium vs Low Revenue Range Comparison
-<img width="640" height="480" alt="range_comparison" src="https://github.com/user-attachments/assets/5a605978-9ee9-481c-ba2a-473ee70acec5" />
+<img width="2537" height="1403" alt="monthly_sales_high_medium_low_v2" src="https://github.com/user-attachments/assets/44459b35-372d-455f-bbf6-838e70845f7e" />
 
 High and medium revenue products follow a seasonal trend, while low-revenue products show steady demand throughout the year.
 
 ### Quantity Ordered vs Price
-<img width="640" height="480" alt="quantity_vs_price" src="https://github.com/user-attachments/assets/de9c1061-1758-4edb-adeb-9452944d4e8f" />
+<img width="2576" height="1403" alt="monthly_sales_scatterplot_v2" src="https://github.com/user-attachments/assets/b34a08ab-1f7d-4e61-838d-a1f9f24dbdd2" />
+
 
 Lower-priced items are typically ordered in higher quantities, while expensive items are ordered individually.
